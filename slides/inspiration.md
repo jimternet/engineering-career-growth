@@ -1,3 +1,2 @@
-##  Inspiration
+<div class="tweet" data-src="https://twitter.com/rondoftw/status/1025459230109720577?s=20&t=q984HfNN-n87DLPxyBLoWA" /></div>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Look for people who push you out of your comfort zone, have different levels of experience than you (more AND less), are good at the things you&#39;re weaker at, and people who are honest in their feedback. <a href="https://t.co/CDUa4vuFWU">pic.twitter.com/CDUa4vuFWU</a></p>&mdash; ronnie chen (@rondoftw) <a href="https://twitter.com/rondoftw/status/1025465283341742080?ref_src=twsrc%5Etfw">August 3, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

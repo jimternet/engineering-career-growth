@@ -2,17 +2,20 @@
     [
         "index.md",
         "inspiration.md",
-        "inspiration2.html"
+        "inspiration2.md",
+        "inspiration3.md"
     ],
     [
         "why.md",
         "change.md"
     ],
-    "what.md",
+    [
+        "what.md",
+        "components.md"
+    ],
     [
         "who.md",
         "who-support-group.md"
-
     ],
     [
         "how.md",
@@ -22,6 +25,5 @@
         "how-test.md",
         "how-review.md"
     ],
-    "references.md",
-    "components.md"
+    "references.md"
 ]
