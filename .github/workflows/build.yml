@@ -7,8 +7,13 @@ jobs:
     runs-on: macos-latest
     steps:
     - uses: actions/checkout@v2
-    - run: npm install
-    - run: grunt copy
+    - uses: actions/setup-node@v2
+      with:
+        node-version: 12
+    - name: Compile with Grunt
+      uses: elstudio/actions-js-build/build@v4
+      with:
+        wdPath: './web/themes/nw8'
     - run: touch ./dist/.nojekyll
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
