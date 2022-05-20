@@ -21,12 +21,19 @@
     [
         "how.md",
         "how-planning.md",
+        "how-planning2.md",
         "how-leg-day.md",
         "how-design.md",
         "how-develop.md",
         "how-test.md",
         "how-review.md"
     ],
-    "references.md",
-    "how-planning2.md"
+    [
+        "summary.md",
+        "example1.md",
+        "example2.md",
+        "example-end.md"
+
+    ],
+    "references.md"
 ]
