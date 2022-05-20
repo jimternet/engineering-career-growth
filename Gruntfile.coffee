@@ -1,4 +1,4 @@
-# Generated on 2022-05-16 using generator-reveal 1.0.0
+# Generated on 2022-05-20 using generator-reveal 1.0.0
 module.exports = (grunt) ->
 
     grunt.initConfig
@@ -78,6 +78,18 @@ module.exports = (grunt) ->
                 }]
 
         
+        buildcontrol:
+
+            options:
+                dir: 'dist'
+                commit: true
+                push: true
+                message: 'Built from %sourceCommit% on branch %sourceBranch%'
+            pages:
+                options:
+                    remote: '<%= pkg.repository.url %>'
+                    branch: 'gh-pages'
+        
 
 
     # Load all grunt tasks.
@@ -119,6 +131,12 @@ module.exports = (grunt) ->
             'copy'
         ]
 
+    
+    grunt.registerTask 'deploy',
+        'Deploy to Github Pages', [
+            'dist'
+            'buildcontrol'
+        ]
     
 
     # Define default task.
