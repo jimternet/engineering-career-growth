@@ -142,5 +142,5 @@ module.exports = (grunt) ->
     # Define default task.
     grunt.registerTask 'default', [
         'test'
-        'serve'
+        'dist'
     ]
