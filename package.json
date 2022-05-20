@@ -15,6 +15,10 @@
   "engines": {
     "node": ">=4"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jimternet/engineering-career-growth.git"
+  },
   "scripts": {
     "test": "grunt test"
   },
