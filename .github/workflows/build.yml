@@ -12,8 +12,6 @@ jobs:
         node-version: 12
     - name: Compile with Grunt
       uses: elstudio/actions-js-build/build@v4
-      with:
-        wdPath: './web/themes/nw8'
     - run: touch ./dist/.nojekyll
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
