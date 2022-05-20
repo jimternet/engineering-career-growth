@@ -1,3 +1,6 @@
-##  inspiration2
+##  inspiration : neccessity
 
-This is a new Markdown slide
+<img class="r-stretch" src="resources/plates.png">
+
+Note:
+Born out of neccessity 
