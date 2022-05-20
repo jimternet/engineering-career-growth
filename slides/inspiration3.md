@@ -1,3 +1,3 @@
-##  inspiration3
+##  inspiration - recursion
 
-This is a new Markdown slide
+How can we apply to ourselves?
