@@ -7,9 +7,8 @@ jobs:
     runs-on: macos-latest
     steps:
     - uses: actions/checkout@v2
-    - run: yarn
-    - run: yarn run build
-    - run: yarn run build-gif
+    - run: npm install
+    - run: grunt deploy
     - run: touch ./dist/.nojekyll
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
