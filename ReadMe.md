@@ -1,5 +1,5 @@
 # presentation on personal development
-
+Something I have talked abotu enough times it made sense to finally write it down. I'm *Very* open to feedback, this is all open info. Please feel free to clone/fork/ do whatever.. 
 
 
 
