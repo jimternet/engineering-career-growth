@@ -7,11 +7,13 @@
     ],
     [
         "why.md",
-        "change.md"
+        "why-change.md",
+        "why-plan.md",
+        "why-roadmap.md"
     ],
     [
         "what.md",
-        "components.md"
+        "what-components.md"
     ],
     [
         "who.md",
@@ -33,7 +35,6 @@
         "example1.md",
         "example2.md",
         "example-end.md"
-
     ],
     "references.md"
 ]
