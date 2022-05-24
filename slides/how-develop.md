@@ -3,6 +3,7 @@
 <p>let's go!</p>
 
 Notes: 
+# DO
 - do the things you said you were going to do
-- capture notea along the way 
+- capture notes along the way 
 - check in with your support group and make adjustments to your plans if necessary 

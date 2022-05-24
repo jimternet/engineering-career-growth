@@ -1,4 +1,4 @@
-##  inspiration : neccessity
+##  Neccessity
 
 <img class="r-stretch" src="resources/plates.png">
 

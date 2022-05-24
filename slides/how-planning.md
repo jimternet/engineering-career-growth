@@ -1,6 +1,7 @@
-##  Planning - Introspection
-
+##  Reflection and Introspection
+<img class="r-stretch" src="resources/which-career.png">
 Notes: 
+# What do you wanna do?
 1. Where do you want to go? E.g. do you want to be an engineer? a manager? 
 1. If you've considered this before, has anything changed? Do you want to change paths? (That's OK!)
 2. What are the expectations of the role you are aspriing to? Does your company have a clear Roles and Responsibilites (RoR) outline? (if not you can find one that speaks to you online)
